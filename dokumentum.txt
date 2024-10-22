@@ -1,2 +1,2 @@
-név:Kovács Dániel Benedek
-osztály:10/F
+név: Kovács Dániel Benedek
+osztály: 10/F
